@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm George Zafeiris 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=IT+Support+Engineer;Linux+Administrator;Windows+Administrator;Hardware+%26+Network+Technician;Technical+Dept+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=IT+Support+Engineer;Linux+Administrator;Windows+Administrator;Hardware+%26+Network+Technician;Technical+Dept+Specialist;Scale+Systems+Configuration" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-IT professional with 10+ years of experience in **networks**, **servers**, **hardware** and **technical support**. Worked across corporate and retail environments managing multi-workstation setups, servers, VPN routers and firmware updates. Experienced in **Windows**, **Linux** and **remote technical support**.
+IT professional with 10+ years of experience in **networks**, **servers**, **hardware** and **technical support**. Worked across corporate and retail environments managing multi-workstation setups, servers, VPN routers and firmware updates. Experienced in **Windows**, **Linux**, **remote technical support** and **scale systems configuration**.
 
 ---
 
@@ -48,7 +48,7 @@ IT professional with 10+ years of experience in **networks**, **servers**, **har
 ## 💼 Work Experience
 
 ### 🔹 ICS Karafillis — Technical Dept. · *2025 – Present* · Thessaloniki
-> IT Support, POS Systems & Thermal Printer Configuration (Xprinter, Sunmi), Android device management, technical documentation
+> IT Support, POS Systems & Thermal Printer Configuration (Xprinter, Sunmi), Scale Systems Configuration, Android device management, technical documentation
 
 ### 🔹 Xirotechniki Pouloulidis-Anastassiou O.E. — RICOH Technician · *2020 – 2025* · Thessaloniki
 > Installation, maintenance & firmware upgrades for RICOH devices · User training on OCR & scanning software · Remote support & VPN router solutions
@@ -58,9 +58,6 @@ IT professional with 10+ years of experience in **networks**, **servers**, **har
 
 ### 🔹 GAME SPOT I.K.E. — Network Technician · *2019* · Trikala
 > Server & workstation setup · Cloud router & patch panel installation · User support & troubleshooting
-
-### 🔹 Magic i-Cafe — Network Admin · *2012 – 2013* · Ioannina
-> LAN installation & configuration · System maintenance & upgrades · Customer technical support
 
 ---
 
