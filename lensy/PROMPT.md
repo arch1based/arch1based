@@ -25,7 +25,7 @@
 - Unit tests για τη λογική (`LogicTest`).
 - Workflow «Lensy Android build» στο GitHub Actions που τρέχει τα tests και χτίζει debug APK σε κάθε push.
 
-Ο κώδικας γράφτηκε χωρίς τοπικό build, γιατί το περιβάλλον δεν είχε πρόσβαση στο Android SDK. Δεν έχει τρέξει ποτέ σε συσκευή ή emulator.
+Το build και τα unit tests περνούν στο GitHub Actions και το debug APK βγαίνει ως artifact `lensy-debug-apk`. Η εφαρμογή όμως δεν έχει τρέξει ποτέ σε συσκευή ή emulator, γιατί το περιβάλλον όπου γράφτηκε δεν είχε πρόσβαση στο Android SDK.
 
 ## Τι θέλω να κάνεις τώρα, με αυτή τη σειρά
 
