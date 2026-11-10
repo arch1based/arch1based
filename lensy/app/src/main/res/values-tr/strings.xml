@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Merhaba, ben Lensy!</string>
+    <string name="onb_sub">Lenslerini ben hatırlarım, sen yorulma.</string>
+    <string name="lens_type_q">Hangi lensleri kullanıyorsun?</string>
+    <string name="type_biweekly">2 haftalık</string>
+    <string name="type_monthly">Aylık</string>
+    <string name="type_quarterly">3 aylık</string>
+    <string name="type_custom">Özel</string>
+    <string name="days_unit">gün</string>
+    <string name="when_q">Ne zaman taktın?</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <string name="pick_date">Başka tarih</string>
+    <string name="start_btn">Başlayalım</string>
+    <string name="days_left">gün kaldı</string>
+    <string name="days_overdue">gün gecikti</string>
+    <string name="change_today">Değişim günü!</string>
+    <string name="btn_new">Yeni lens taktım</string>
+    <string name="confirm_q">Bugün yeni çift mi?</string>
+    <string name="yes">Evet!</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="mood_fresh">Taptazeyim. Her şeyi görüyorum!</string>
+    <string name="mood_ok">Her şey yolunda. Bakmaya devam et.</string>
+    <string name="mood_tired">Yorulmaya başladım… yakında yeni lens lütfen.</string>
+    <string name="mood_due">Bugün o gün! Eskiler dışarı.</string>
+    <string name="mood_overdue">Ah. Bu lenslerin çoktan emekli olması gerekiyordu.</string>
+    <string name="next_change">Değişim: %1$s</string>
+    <string name="settings">Ayarlar</string>
+    <string name="reminder_time">Hatırlatma saati</string>
+    <string name="notif_channel">Lens hatırlatmaları</string>
+    <string name="notif_2days">İki gün kaldı. Evde yeni bir çiftin var mı?</string>
+    <string name="notif_1day">Lenslerin yarın emekli oluyor. Veda partisini planla.</string>
+    <string name="notif_today">Lens değişim günü! Gözlerin sana teşekkür edecek.</string>
+    <string name="notif_overdue">%1$d gün gecikti. Gözlerin şikâyet dilekçesi yazıyor.</string>
+    <string name="notif_permission">Bildirimlere izin ver, yoksa başının etini yiyemem.</string>
+    <string name="allow">İzin ver</string>
+    <string name="trial_left">Ücretsiz deneme: %1$d gün kaldı</string>
+    <string name="pay_title">Bize bir espresso ısmarlar mısın?</string>
+    <string name="pay_body">Bir espresso fiyatına Lensy sana sonsuza kadar hatırlatır. Tek ödeme, abonelik yok.</string>
+    <string name="pay_btn">Ismarla · %1$s</string>
+    <string name="pay_later">Belki sonra</string>
+    <string name="pay_thanks">Espresso için teşekkürler! Lensy sonsuza kadar senin.</string>
+    <string name="paused_banner">Hatırlatmalar duraklatıldı. Bir espresso onları geri getirir.</string>
+    <string name="disclaimer">Lensy bir hatırlatıcıdır, tıbbi tavsiye değildir. Göz doktorunun talimatlarına uy.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Γεια, είμαι ο Lensy!</string>
+    <string name="onb_sub">Θυμάμαι εγώ τους φακούς επαφής σου, για να μη χρειάζεται να τους θυμάσαι εσύ.</string>
+    <string name="lens_type_q">Τι φακούς φοράς;</string>
+    <string name="type_biweekly">2 εβδομάδων</string>
+    <string name="type_monthly">Μηνιαίοι</string>
+    <string name="type_quarterly">3 μηνών</string>
+    <string name="type_custom">Άλλο</string>
+    <string name="days_unit">μέρες</string>
+    <string name="when_q">Πότε τους έβαλες;</string>
+    <string name="today">Σήμερα</string>
+    <string name="yesterday">Χθες</string>
+    <string name="pick_date">Άλλη μέρα</string>
+    <string name="start_btn">Πάμε</string>
+    <string name="days_left">μέρες ακόμα</string>
+    <string name="days_overdue">μέρες καθυστέρηση</string>
+    <string name="change_today">Μέρα αλλαγής!</string>
+    <string name="btn_new">Έβαλα καινούργιους φακούς</string>
+    <string name="confirm_q">Καινούργιο ζευγάρι σήμερα;</string>
+    <string name="yes">Ναι!</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="ok">OK</string>
+    <string name="mood_fresh">Φρέσκος φρέσκος. Βλέπω τα πάντα!</string>
+    <string name="mood_ok">Όλα καλά. Συνέχισε να κοιτάς.</string>
+    <string name="mood_tired">Αρχίζω να κουράζομαι… καινούργιοι φακοί σύντομα, ε;</string>
+    <string name="mood_due">Σήμερα είναι η μέρα! Έξω οι παλιοί.</string>
+    <string name="mood_overdue">Άουτς. Αυτοί οι φακοί έπρεπε να έχουν βγει στη σύνταξη.</string>
+    <string name="next_change">Αλλαγή στις %1$s</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="reminder_time">Ώρα υπενθύμισης</string>
+    <string name="notif_channel">Υπενθυμίσεις φακών</string>
+    <string name="notif_2days">Δύο μέρες ακόμα. Έχεις καινούργιο ζευγάρι στο σπίτι;</string>
+    <string name="notif_1day">Οι φακοί σου βγαίνουν στη σύνταξη αύριο. Ετοίμασε το αποχαιρετιστήριο.</string>
+    <string name="notif_today">Μέρα αλλαγής φακών! Τα μάτια σου θα σε ευχαριστήσουν.</string>
+    <string name="notif_overdue">%1$d μέρες καθυστέρηση. Τα μάτια σου ετοιμάζουν καταγγελία.</string>
+    <string name="notif_permission">Άφησέ με να στέλνω ειδοποιήσεις, αλλιώς δεν μπορώ να σου γκρινιάζω.</string>
+    <string name="allow">Να επιτρέπεται</string>
+    <string name="trial_left">Δωρεάν δοκιμή: απομένουν %1$d μέρες</string>
+    <string name="pay_title">Μας κερνάς έναν espresso;</string>
+    <string name="pay_body">Με την τιμή ενός espresso, ο Lensy σου θυμίζει για πάντα. Μία πληρωμή, χωρίς συνδρομή.</string>
+    <string name="pay_btn">Κερνάω · %1$s</string>
+    <string name="pay_later">Ίσως αργότερα</string>
+    <string name="pay_thanks">Ευχαριστούμε για τον espresso! Ο Lensy είναι δικός σου για πάντα.</string>
+    <string name="paused_banner">Οι υπενθυμίσεις είναι σε παύση. Ένας espresso τις φέρνει πίσω.</string>
+    <string name="disclaimer">Ο Lensy είναι υπενθύμιση, όχι ιατρική συμβουλή. Ακολούθησε τις οδηγίες του οφθαλμιάτρου ή του οπτικού σου.</string>
+</resources>

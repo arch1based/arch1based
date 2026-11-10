@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Olá, eu sou o Lensy!</string>
+    <string name="onb_sub">Eu lembro das suas lentes de contato para você não precisar lembrar.</string>
+    <string name="lens_type_q">Que lentes você usa?</string>
+    <string name="type_biweekly">2 semanas</string>
+    <string name="type_monthly">Mensais</string>
+    <string name="type_quarterly">3 meses</string>
+    <string name="type_custom">Outro</string>
+    <string name="days_unit">dias</string>
+    <string name="when_q">Quando você as colocou?</string>
+    <string name="today">Hoje</string>
+    <string name="yesterday">Ontem</string>
+    <string name="pick_date">Outra data</string>
+    <string name="start_btn">Vamos lá</string>
+    <string name="days_left">dias restantes</string>
+    <string name="days_overdue">dias de atraso</string>
+    <string name="change_today">Dia de trocar!</string>
+    <string name="btn_new">Coloquei lentes novas</string>
+    <string name="confirm_q">Par novo hoje?</string>
+    <string name="yes">Sim!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="mood_fresh">Novinho em folha. Estou vendo tudo!</string>
+    <string name="mood_ok">Tudo certo. Pode continuar olhando.</string>
+    <string name="mood_tired">Estou ficando cansado… lentes novas em breve, por favor.</string>
+    <string name="mood_due">Hoje é o dia! Fora com as antigas.</string>
+    <string name="mood_overdue">Ai. Essas lentes já deviam estar aposentadas.</string>
+    <string name="next_change">Troca em %1$s</string>
+    <string name="settings">Configurações</string>
+    <string name="reminder_time">Hora do lembrete</string>
+    <string name="notif_channel">Lembretes de lentes</string>
+    <string name="notif_2days">Faltam dois dias. Você tem um par novo em casa?</string>
+    <string name="notif_1day">Suas lentes se aposentam amanhã. Prepare a festa de despedida.</string>
+    <string name="notif_today">Dia de trocar as lentes! Seus olhos vão agradecer.</string>
+    <string name="notif_overdue">%1$d dias de atraso. Seus olhos estão registrando uma reclamação.</string>
+    <string name="notif_permission">Deixe eu enviar notificações, senão não consigo te lembrar.</string>
+    <string name="allow">Permitir</string>
+    <string name="trial_left">Teste grátis: faltam %1$d dias</string>
+    <string name="pay_title">Paga um espresso para a gente?</string>
+    <string name="pay_body">Pelo preço de um espresso, o Lensy lembra você para sempre. Um pagamento só, sem assinatura.</string>
+    <string name="pay_btn">Pagar · %1$s</string>
+    <string name="pay_later">Talvez depois</string>
+    <string name="pay_thanks">Obrigado pelo espresso! O Lensy é seu para sempre.</string>
+    <string name="paused_banner">Os lembretes estão pausados. Um espresso traz eles de volta.</string>
+    <string name="disclaimer">O Lensy é um lembrete, não uma orientação médica. Siga as instruções do seu oftalmologista.</string>
+</resources>

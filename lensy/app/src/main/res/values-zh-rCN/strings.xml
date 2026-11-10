@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">你好，我是 Lensy！</string>
+    <string name="onb_sub">隐形眼镜的事交给我来记。</string>
+    <string name="lens_type_q">你戴哪种镜片？</string>
+    <string name="type_biweekly">双周抛</string>
+    <string name="type_monthly">月抛</string>
+    <string name="type_quarterly">季抛</string>
+    <string name="type_custom">自定义</string>
+    <string name="days_unit">天</string>
+    <string name="when_q">什么时候戴上的？</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="pick_date">其他日期</string>
+    <string name="start_btn">开始吧</string>
+    <string name="days_left">剩余天数</string>
+    <string name="days_overdue">超期天数</string>
+    <string name="change_today">该换镜片了！</string>
+    <string name="btn_new">我换了新镜片</string>
+    <string name="confirm_q">今天换了新的一副？</string>
+    <string name="yes">是的！</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="mood_fresh">清清爽爽，什么都看得见！</string>
+    <string name="mood_ok">一切正常，继续看吧。</string>
+    <string name="mood_tired">我有点累了…快换新镜片吧。</string>
+    <string name="mood_due">就是今天！旧的该下岗了。</string>
+    <string name="mood_overdue">哎哟，这副镜片早该退休了。</string>
+    <string name="next_change">更换日期：%1$s</string>
+    <string name="settings">设置</string>
+    <string name="reminder_time">提醒时间</string>
+    <string name="notif_channel">镜片提醒</string>
+    <string name="notif_2days">还剩两天。家里有新镜片吗？</string>
+    <string name="notif_1day">你的镜片明天退休，准备欢送会吧。</string>
+    <string name="notif_today">今天换镜片！眼睛会感谢你的。</string>
+    <string name="notif_overdue">已超期 %1$d 天。你的眼睛正在投诉。</string>
+    <string name="notif_permission">请允许通知，不然我没法唠叨你。</string>
+    <string name="allow">允许</string>
+    <string name="trial_left">免费试用：还剩 %1$d 天</string>
+    <string name="pay_title">请我们喝杯浓缩咖啡？</string>
+    <string name="pay_body">一杯浓缩咖啡的价格，Lensy 永久为你提醒。一次付款，无需订阅。</string>
+    <string name="pay_btn">请客 · %1$s</string>
+    <string name="pay_later">以后再说</string>
+    <string name="pay_thanks">谢谢你的咖啡！Lensy 永远属于你了。</string>
+    <string name="paused_banner">提醒已暂停。一杯浓缩咖啡就能恢复。</string>
+    <string name="disclaimer">Lensy 只是提醒工具，不构成医疗建议。请遵循眼科医生的指导。</string>
+</resources>

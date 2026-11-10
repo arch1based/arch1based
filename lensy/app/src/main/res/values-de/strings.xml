@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Hi, ich bin Lensy!</string>
+    <string name="onb_sub">Ich merke mir deine Kontaktlinsen, damit du es nicht musst.</string>
+    <string name="lens_type_q">Welche Linsen trägst du?</string>
+    <string name="type_biweekly">2 Wochen</string>
+    <string name="type_monthly">Monatslinsen</string>
+    <string name="type_quarterly">3 Monate</string>
+    <string name="type_custom">Eigene</string>
+    <string name="days_unit">Tage</string>
+    <string name="when_q">Wann hast du sie eingesetzt?</string>
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+    <string name="pick_date">Anderes Datum</string>
+    <string name="start_btn">Los geht’s</string>
+    <string name="days_left">Tage übrig</string>
+    <string name="days_overdue">Tage überfällig</string>
+    <string name="change_today">Wechseltag!</string>
+    <string name="btn_new">Ich habe neue Linsen eingesetzt</string>
+    <string name="confirm_q">Heute ein frisches Paar?</string>
+    <string name="yes">Ja!</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="mood_fresh">Taufrisch. Ich sehe alles!</string>
+    <string name="mood_ok">Alles gut. Schau ruhig weiter.</string>
+    <string name="mood_tired">Ich werde müde… bitte bald neue Linsen.</string>
+    <string name="mood_due">Heute ist es so weit! Raus mit den alten.</string>
+    <string name="mood_overdue">Autsch. Diese Linsen gehören längst in Rente.</string>
+    <string name="next_change">Wechsel am %1$s</string>
+    <string name="settings">Einstellungen</string>
+    <string name="reminder_time">Erinnerungszeit</string>
+    <string name="notif_channel">Linsen-Erinnerungen</string>
+    <string name="notif_2days">Noch zwei Tage. Hast du ein frisches Paar zu Hause?</string>
+    <string name="notif_1day">Deine Linsen gehen morgen in Rente. Plane die Abschiedsfeier.</string>
+    <string name="notif_today">Linsenwechsel-Tag! Deine Augen werden es dir danken.</string>
+    <string name="notif_overdue">%1$d Tage überfällig. Deine Augen reichen Beschwerde ein.</string>
+    <string name="notif_permission">Erlaube Benachrichtigungen, sonst kann ich dich nicht nerven.</string>
+    <string name="allow">Erlauben</string>
+    <string name="trial_left">Kostenlos testen: noch %1$d Tage</string>
+    <string name="pay_title">Spendierst du uns einen Espresso?</string>
+    <string name="pay_body">Für den Preis eines Espressos erinnert dich Lensy für immer. Einmal zahlen, kein Abo.</string>
+    <string name="pay_btn">Spendieren · %1$s</string>
+    <string name="pay_later">Vielleicht später</string>
+    <string name="pay_thanks">Danke für den Espresso! Lensy gehört für immer dir.</string>
+    <string name="paused_banner">Erinnerungen sind pausiert. Ein Espresso bringt sie zurück.</string>
+    <string name="disclaimer">Lensy ist eine Erinnerung, kein medizinischer Rat. Halte dich an die Anweisungen deines Augenarztes oder Optikers.</string>
+</resources>

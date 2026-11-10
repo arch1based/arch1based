@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Salut, moi c’est Lensy !</string>
+    <string name="onb_sub">Je me souviens de tes lentilles pour que tu n’aies pas à le faire.</string>
+    <string name="lens_type_q">Quelles lentilles portes-tu ?</string>
+    <string name="type_biweekly">2 semaines</string>
+    <string name="type_monthly">Mensuelles</string>
+    <string name="type_quarterly">3 mois</string>
+    <string name="type_custom">Autre</string>
+    <string name="days_unit">jours</string>
+    <string name="when_q">Quand les as-tu mises ?</string>
+    <string name="today">Aujourd’hui</string>
+    <string name="yesterday">Hier</string>
+    <string name="pick_date">Autre date</string>
+    <string name="start_btn">C’est parti</string>
+    <string name="days_left">jours restants</string>
+    <string name="days_overdue">jours de retard</string>
+    <string name="change_today">Jour de changement !</string>
+    <string name="btn_new">J’ai mis des lentilles neuves</string>
+    <string name="confirm_q">Nouvelle paire aujourd’hui ?</string>
+    <string name="yes">Oui !</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+    <string name="mood_fresh">Frais comme un gardon. Je vois tout !</string>
+    <string name="mood_ok">Tout va bien. Continue de regarder.</string>
+    <string name="mood_tired">Je fatigue… de nouvelles lentilles bientôt, s’il te plaît.</string>
+    <string name="mood_due">C’est le grand jour ! Dehors les anciennes.</string>
+    <string name="mood_overdue">Aïe. Ces lentilles auraient dû partir à la retraite.</string>
+    <string name="next_change">Changement le %1$s</string>
+    <string name="settings">Réglages</string>
+    <string name="reminder_time">Heure du rappel</string>
+    <string name="notif_channel">Rappels de lentilles</string>
+    <string name="notif_2days">Plus que deux jours. As-tu une paire neuve à la maison ?</string>
+    <string name="notif_1day">Tes lentilles partent à la retraite demain. Prépare le pot de départ.</string>
+    <string name="notif_today">Jour de changement de lentilles ! Tes yeux te diront merci.</string>
+    <string name="notif_overdue">%1$d jours de retard. Tes yeux déposent une réclamation.</string>
+    <string name="notif_permission">Autorise les notifications, sinon je ne peux pas te harceler.</string>
+    <string name="allow">Autoriser</string>
+    <string name="trial_left">Essai gratuit : encore %1$d jours</string>
+    <string name="pay_title">Tu nous offres un espresso ?</string>
+    <string name="pay_body">Pour le prix d’un espresso, Lensy te le rappelle pour toujours. Un seul paiement, sans abonnement.</string>
+    <string name="pay_btn">Offrir · %1$s</string>
+    <string name="pay_later">Plus tard</string>
+    <string name="pay_thanks">Merci pour l’espresso ! Lensy est à toi pour toujours.</string>
+    <string name="paused_banner">Les rappels sont en pause. Un espresso les fait revenir.</string>
+    <string name="disclaimer">Lensy est un rappel, pas un avis médical. Suis les consignes de ton professionnel de la vue.</string>
+</resources>

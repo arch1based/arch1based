@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Привет, я Lensy!</string>
+    <string name="onb_sub">Я помню о твоих линзах, чтобы тебе не пришлось.</string>
+    <string name="lens_type_q">Какие линзы ты носишь?</string>
+    <string name="type_biweekly">2 недели</string>
+    <string name="type_monthly">На месяц</string>
+    <string name="type_quarterly">3 месяца</string>
+    <string name="type_custom">Другое</string>
+    <string name="days_unit">дн.</string>
+    <string name="when_q">Когда ты их надел(а)?</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="pick_date">Другая дата</string>
+    <string name="start_btn">Поехали</string>
+    <string name="days_left">дней осталось</string>
+    <string name="days_overdue">дней просрочки</string>
+    <string name="change_today">День замены!</string>
+    <string name="btn_new">Я надел(а) новые линзы</string>
+    <string name="confirm_q">Сегодня новая пара?</string>
+    <string name="yes">Да!</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="mood_fresh">Свежий как огурчик. Вижу всё!</string>
+    <string name="mood_ok">Всё хорошо. Смотри дальше.</string>
+    <string name="mood_tired">Я устаю… скоро нужны новые линзы.</string>
+    <string name="mood_due">Сегодня тот самый день! Старые — на выход.</string>
+    <string name="mood_overdue">Ой. Этим линзам давно пора на пенсию.</string>
+    <string name="next_change">Замена %1$s</string>
+    <string name="settings">Настройки</string>
+    <string name="reminder_time">Время напоминания</string>
+    <string name="notif_channel">Напоминания о линзах</string>
+    <string name="notif_2days">Осталось два дня. Дома есть свежая пара?</string>
+    <string name="notif_1day">Завтра твои линзы уходят на пенсию. Готовь проводы.</string>
+    <string name="notif_today">День замены линз! Глаза скажут спасибо.</string>
+    <string name="notif_overdue">Просрочка, дней: %1$d. Твои глаза пишут жалобу.</string>
+    <string name="notif_permission">Разреши уведомления, иначе я не смогу тебя доставать.</string>
+    <string name="allow">Разрешить</string>
+    <string name="trial_left">Пробный период, осталось дней: %1$d</string>
+    <string name="pay_title">Угостишь нас эспрессо?</string>
+    <string name="pay_body">По цене одного эспрессо Lensy будет напоминать тебе всегда. Один платёж, без подписки.</string>
+    <string name="pay_btn">Угостить · %1$s</string>
+    <string name="pay_later">Может, позже</string>
+    <string name="pay_thanks">Спасибо за эспрессо! Lensy твой навсегда.</string>
+    <string name="paused_banner">Напоминания на паузе. Один эспрессо их вернёт.</string>
+    <string name="disclaimer">Lensy — это напоминание, а не медицинский совет. Следуй рекомендациям своего офтальмолога.</string>
+</resources>

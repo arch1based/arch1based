@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Lensy</string>
+    <string name="onb_title">Hi, I’m Lensy!</string>
+    <string name="onb_sub">I remember your contact lenses, so you don’t have to.</string>
+    <string name="lens_type_q">What lenses do you wear?</string>
+    <string name="type_biweekly">2 weeks</string>
+    <string name="type_monthly">Monthly</string>
+    <string name="type_quarterly">3 months</string>
+    <string name="type_custom">Custom</string>
+    <string name="days_unit">days</string>
+    <string name="when_q">When did you put them in?</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="pick_date">Other date</string>
+    <string name="start_btn">Let’s go</string>
+    <string name="days_left">days left</string>
+    <string name="days_overdue">days overdue</string>
+    <string name="change_today">Change day!</string>
+    <string name="btn_new">I put in fresh lenses</string>
+    <string name="confirm_q">Fresh pair in today?</string>
+    <string name="yes">Yes!</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="mood_fresh">Fresh as a daisy. I can see everything!</string>
+    <string name="mood_ok">All good. Carry on looking at things.</string>
+    <string name="mood_tired">Getting tired… new lenses soon, please.</string>
+    <string name="mood_due">Today’s the day! Out with the old.</string>
+    <string name="mood_overdue">Ouch. These lenses are past retirement.</string>
+    <string name="next_change">Change on %1$s</string>
+    <string name="settings">Settings</string>
+    <string name="reminder_time">Reminder time</string>
+    <string name="notif_channel">Lens reminders</string>
+    <string name="notif_2days">Two days left. Do you have a fresh pair at home?</string>
+    <string name="notif_1day">Your lenses retire tomorrow. Plan the farewell party.</string>
+    <string name="notif_today">Lens change day! Your eyes will thank you.</string>
+    <string name="notif_overdue">%1$d days overdue. Your eyes are filing a complaint.</string>
+    <string name="notif_permission">Let me send notifications, or I can’t nag you.</string>
+    <string name="allow">Allow</string>
+    <string name="trial_left">Free trial: %1$d days left</string>
+    <string name="pay_title">Buy us an espresso?</string>
+    <string name="pay_body">For the price of one espresso, Lensy keeps reminding you forever. One payment, no subscription.</string>
+    <string name="pay_btn">Treat us · %1$s</string>
+    <string name="pay_later">Maybe later</string>
+    <string name="pay_thanks">Thanks for the espresso! Lensy is yours forever.</string>
+    <string name="paused_banner">Reminders are paused. One espresso brings them back.</string>
+    <string name="disclaimer">Lensy is a reminder, not medical advice. Follow your eye care professional’s instructions.</string>
+</resources>

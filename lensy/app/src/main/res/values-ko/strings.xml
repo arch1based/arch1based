@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">안녕하세요, Lensy예요!</string>
+    <string name="onb_sub">콘택트렌즈는 제가 기억할게요.</string>
+    <string name="lens_type_q">어떤 렌즈를 쓰세요?</string>
+    <string name="type_biweekly">2주</string>
+    <string name="type_monthly">한 달</string>
+    <string name="type_quarterly">3개월</string>
+    <string name="type_custom">직접 설정</string>
+    <string name="days_unit">일</string>
+    <string name="when_q">언제 착용했나요?</string>
+    <string name="today">오늘</string>
+    <string name="yesterday">어제</string>
+    <string name="pick_date">다른 날짜</string>
+    <string name="start_btn">시작하기</string>
+    <string name="days_left">일 남음</string>
+    <string name="days_overdue">일 지남</string>
+    <string name="change_today">교체하는 날!</string>
+    <string name="btn_new">새 렌즈를 착용했어요</string>
+    <string name="confirm_q">오늘 새 렌즈인가요?</string>
+    <string name="yes">네!</string>
+    <string name="cancel">취소</string>
+    <string name="ok">확인</string>
+    <string name="mood_fresh">반짝반짝해요. 다 보여요!</string>
+    <string name="mood_ok">문제없어요. 계속 보세요.</string>
+    <string name="mood_tired">슬슬 피곤해요… 곧 새 렌즈 부탁해요.</string>
+    <string name="mood_due">오늘이 그날이에요! 헌 렌즈는 안녕.</string>
+    <string name="mood_overdue">아야. 이 렌즈는 은퇴할 때가 지났어요.</string>
+    <string name="next_change">교체일: %1$s</string>
+    <string name="settings">설정</string>
+    <string name="reminder_time">알림 시간</string>
+    <string name="notif_channel">렌즈 알림</string>
+    <string name="notif_2days">이틀 남았어요. 집에 새 렌즈가 있나요?</string>
+    <string name="notif_1day">렌즈가 내일 은퇴해요. 송별회를 준비하세요.</string>
+    <string name="notif_today">렌즈 교체하는 날! 눈이 고마워할 거예요.</string>
+    <string name="notif_overdue">%1$d일 지났어요. 눈이 항의서를 쓰고 있어요.</string>
+    <string name="notif_permission">알림을 허용해 주세요. 안 그러면 잔소리를 못 해요.</string>
+    <string name="allow">허용</string>
+    <string name="trial_left">무료 체험: %1$d일 남음</string>
+    <string name="pay_title">에스프레소 한 잔 사 주실래요?</string>
+    <string name="pay_body">에스프레소 한 잔 값으로 Lensy가 평생 알려 드려요. 한 번 결제, 구독 없음.</string>
+    <string name="pay_btn">한 잔 사기 · %1$s</string>
+    <string name="pay_later">나중에</string>
+    <string name="pay_thanks">에스프레소 고마워요! Lensy는 이제 평생 당신 거예요.</string>
+    <string name="paused_banner">알림이 일시중지됐어요. 에스프레소 한 잔이면 다시 켜져요.</string>
+    <string name="disclaimer">Lensy는 알림 앱이며 의학적 조언이 아닙니다. 안과 전문의의 지시를 따르세요.</string>
+</resources>
